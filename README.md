@@ -9,15 +9,15 @@ It handles DPI connected using optical splitter or port mirroring (**Passive DPI
 
 # Quick start
 
-* **For Russia**: Download [latest version from Releases page](https://github.com/ValdikSS/GoodbyeDPI/releases), unpack the file and run **1_russia_blacklist_dnsredir.cmd** script.
-* For other countries: Download [latest version from Releases page](https://github.com/ValdikSS/GoodbyeDPI/releases), unpack the file and run **2_any_country_dnsredir.cmd**.
+* **For Russia**: Download [latest version from Releases page](https://github.com/ve3xone/GoodbyeDPI/releases/latest), unpack the file and run **1_russia_blacklist_dnsredir.cmd** script.
+* For other countries: Download [latest version from Releases page](https://github.com/ve3xone/GoodbyeDPI/releases/latest), unpack the file and run **2_any_country_dnsredir.cmd**.
 
 These scripts launch GoodbyeDPI in recommended mode with DNS resolver redirection to Yandex DNS on non-standard port (to prevent DNS poisoning).  
 If it works — congratulations! You can use it as-is or configure further.
 
 # How to use
 
-Download [latest version from Releases page](https://github.com/ValdikSS/GoodbyeDPI/releases) and run.
+Download [latest version from Releases page](https://github.com/ve3xone/GoodbyeDPI/releases/latest) and run.
 
 ```
 Usage: goodbyedpi.exe [OPTION...]
@@ -156,4 +156,4 @@ Modify them according to your own needs.
 
 Thanks @basil00 for [WinDivert](https://github.com/basil00/Divert). That's the main part of this program.
 
-Thanks for every [BlockCheck](https://github.com/ValdikSS/blockcheck) contributor. It would be impossible to understand DPI behaviour without this utility.
+Thanks for every [BlockCheck](https://github.com//blockcheck) contributor. It would be impossible to understand DPI behaviour without this utility.
